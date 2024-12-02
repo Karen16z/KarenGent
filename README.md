@@ -2,7 +2,7 @@
 
 
 <p align="center">️
-  <img src="docs/demo.png" width="600px" alt="karen16z desktop demo" />
+  <img src="docs/karen.gif" width="600px" alt="karen16z desktop demo" />
 <br><br>
 Create, manage, and chat with AI agents using your own keys, models and local data.
 <br><br>
