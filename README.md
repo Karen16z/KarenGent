@@ -23,7 +23,7 @@ Combine models from different providers under one chat, and configure their inte
 > This project is under development, each release is stableish but may contain unfinished features or bugs, and this readme may not be accurate.
 
 <p align="center">
-  <img src="docs/demo.gif" align="center" height="255px" alt="karen16z gif demo" style="margin-right: 20px;" />
+  <img src="docs/karen" align="center" height="255px" alt="karen16z gif demo" style="margin-right: 20px;" />
   <img src="docs/Screenshot3.png" align="center" height="250px" alt="karen16z gif demo" style="margin-right: 20px;" />
   <img src="docs/Screenshot1.png" align="center" height="250px" alt="karen16z gif demo" style="margin-right: 20px;" />
 </p>
